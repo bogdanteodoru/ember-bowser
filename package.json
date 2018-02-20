@@ -1,6 +1,6 @@
 {
   "name": "ember-bowser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akatov/ember-bowser"
+    "url": "https://github.com/bogdanteodoru/ember-bowser"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -45,7 +45,7 @@
     "ember-addon"
   ],
   "dependencies": {
-    "bowser": "^1.4.0",
+    "bowser": "^1.9.2",
     "broccoli-funnel": "^1.0.2",
     "broccoli-merge-trees": "^1.1.1",
     "ember-cli-babel": "^5.1.6"
